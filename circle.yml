@@ -1,0 +1,6 @@
+notify:
+  webhooks:
+    - url: http://179.34.164.10:4000/564eb8d36b08ea275c000002
+machine:
+  ruby:
+    version: 2.2.3
